@@ -5,7 +5,9 @@ go 1.18
 require (
 	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/log v0.0.0-20151026012452-9a3136781e1f
-	github.com/AlekSi/gocoverutil v0.2.0 // indirect
+)
+
+require (
 	github.com/Sirupsen/logrus v1.0.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
@@ -16,6 +18,5 @@ require (
 	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/stretchr/testify v1.7.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/tools v0.9.2 // indirect
 	google.golang.org/protobuf v1.26.0-rc.1 // indirect
 )
