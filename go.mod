@@ -1,6 +1,6 @@
 module github.com/ClickHouse/clickhouse_exporter
 
-go 1.16
+go 1.18
 
 require (
 	github.com/Sirupsen/logrus v1.0.1 // indirect
